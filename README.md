@@ -78,5 +78,7 @@ var str = navigator.platform + "\n" + navigator.userAgent + "\n"
 undefined
 var str = navigator.platform + "\n" + navigator.userAgent + "\n";
 undefined
+window.alert(str);
+undefined
 
 ```
